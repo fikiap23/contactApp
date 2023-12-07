@@ -14,4 +14,4 @@ Link tutorial: [https://youtu.be/xrYD_IhmuTM?si=4bnVJTty_OUVIBu0](https://youtu.
 
 ### Dokumentasi lengkap aplikasi
 
-[Lihat dokumentasi](belajar_kontak_app.pdf)
+[Lihat dokumentasi](https://docs.google.com/document/d/18XHS89N9FA8VG7dwpwWEM4LW1jlIhUUJgeeVXSGfHUM/edit?usp=sharing)
